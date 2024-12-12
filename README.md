@@ -87,9 +87,5 @@ PNL_IMG_GENERATOR_API=
 npm run serve
 ```
 
-## Version 1.0,   21/6/2024
+## Version 1.0 - old,   21/6/2024
 
-## Contact me
-- [Telegram](https://t.me/BTC0in23)
-
-- [Github](https://github.com/btcoin23)
